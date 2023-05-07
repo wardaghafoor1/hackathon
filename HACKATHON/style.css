@@ -1,0 +1,149 @@
+/* navbar
+ */
+ #q{
+   display: flex;
+   background-color: #0065c3;
+   justify-content: space-between;
+ }
+
+ #wa{
+    color: white;
+ 
+ }
+ #war{
+    color: white;
+    border-radius: 50px ;
+ }
+ #war:hover{
+    color:#0065c3;
+    background-color: white;
+ }
+
+
+.main{
+    padding-top: 00px;
+    margin-left: auto 10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-image: url('https://www.familysavings.com/wp-content/uploads/2019/03/pepsi-zero-1024x511.png');
+    background-size: cover;
+    width: auto;
+   }
+
+   .nitro{
+    background-image: url('https://staticc.sportskeeda.com/editor/2022/02/bb502-16457602090611-1920.jpg');
+    padding: 100px 100px 100px 100px;
+    background-repeat: no-repeat;
+    /* margin: 10px auto; */
+    background-size:100%
+   }
+   .button{
+    border-radius: 10px;
+    margin-left: 820px;
+    margin-top: 40%;
+    color: white;
+    background-color: blue;
+   }
+   .button:hover{
+color: blue;
+background-color: white;
+border-radius: 20px;
+   }
+.main{
+   padding-top: 400px ;
+   padding-bottom: 0px;
+}
+   /* PIC SECTION */
+   .capture{
+    display: inline-block;
+    justify-content: flex-end;
+   }
+   .row{
+    background-image: url('https://th.bing.com/th/id/R.5893ab2a61536d2d5738943e54871126?rik=e7qQOcajFGGlJw&riu=http%3a%2f%2fs1.bwallpapers.com%2fwallpapers%2f2014%2f05%2f09%2fblue-color_034147333.jpg&ehk=xtoZB7Whb5n3El5NlZPbHDH%2bpjeydbLfsglY7J7YT8I%3d&risl=&pid=ImgRaw&r=0');
+   }
+
+
+   .container {
+      display: flex;
+      background-color: blue;
+      background-size: cover;
+    }
+    
+    .column {
+      flex-basis: 50%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    #a{
+      padding: auto;
+    }
+    .ha{
+      border-radius: 10px;
+      margin-left: 90px ;
+      color: white;
+      background-color: blue;
+    }
+    .ha:hover{
+      color: blue;
+      background-color: white;
+   
+   }
+
+   .image-row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .image {
+      flex: 1;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .image img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    
+    .containerin {
+      display: flex;
+      align-items: center;
+      background-color: #2403fa;
+    }
+    
+    .logoin {
+      margin-right: 300px;
+      margin-left: 50px;
+      width: 100px;
+      background-color: #2403fa;
+    }
+    
+    .columnsin {
+      display: flex;
+      font-size: xx-large;
+      color: #edeff1;
+    }
+    
+    .columnin {
+      margin-right: 20px;
+    }
+    
+    
+    .subscribe a {
+      background-color: #2403fa;
+      color: #f3f5f7ec;
+      border: 2px solid #f1f4f6;
+      font-size: 27px;
+      font-family: Arial, sans-serif;
+      padding: 10px 20px;
+      border-radius: 50px;
+    }
+  
+  
+  
+    
+    
